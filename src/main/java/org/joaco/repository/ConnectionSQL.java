@@ -9,7 +9,7 @@ import java.sql.SQLException;
 
 public class ConnectionSQL {
     private static final DataSource datasource;
-    private static final String url = "jdbc:sqlite:D:\\Programacion 3\\Guia_2_JDBC\\src\\main\\java\\org\\joaco\\alumnos1.db";
+    private static final String url = "jdbc:sqlite:D:\\Programacion 3\\Guia 2.5 AdvanceJDBC\\src\\main\\resources\\banco.db";
 
     static
     {
